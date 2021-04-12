@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://dougzybuydesign.github.io/csb-hwodb/static/css/main.07ded3df.chunk.css",
+    "main.js": "https://dougzybuydesign.github.io/csb-hwodb/static/js/main.2a62ba22.chunk.js",
+    "main.js.map": "https://dougzybuydesign.github.io/csb-hwodb/static/js/main.2a62ba22.chunk.js.map",
+    "runtime-main.js": "https://dougzybuydesign.github.io/csb-hwodb/static/js/runtime-main.cc642754.js",
+    "runtime-main.js.map": "https://dougzybuydesign.github.io/csb-hwodb/static/js/runtime-main.cc642754.js.map",
+    "static/js/2.38ec0f17.chunk.js": "https://dougzybuydesign.github.io/csb-hwodb/static/js/2.38ec0f17.chunk.js",
+    "static/js/2.38ec0f17.chunk.js.map": "https://dougzybuydesign.github.io/csb-hwodb/static/js/2.38ec0f17.chunk.js.map",
+    "static/js/3.b3755d1a.chunk.js": "https://dougzybuydesign.github.io/csb-hwodb/static/js/3.b3755d1a.chunk.js",
+    "static/js/3.b3755d1a.chunk.js.map": "https://dougzybuydesign.github.io/csb-hwodb/static/js/3.b3755d1a.chunk.js.map",
+    "index.html": "https://dougzybuydesign.github.io/csb-hwodb/index.html",
+    "static/css/main.07ded3df.chunk.css.map": "https://dougzybuydesign.github.io/csb-hwodb/static/css/main.07ded3df.chunk.css.map",
+    "static/js/2.38ec0f17.chunk.js.LICENSE.txt": "https://dougzybuydesign.github.io/csb-hwodb/static/js/2.38ec0f17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc642754.js",
+    "static/js/2.38ec0f17.chunk.js",
+    "static/css/main.07ded3df.chunk.css",
+    "static/js/main.2a62ba22.chunk.js"
+  ]
+}
